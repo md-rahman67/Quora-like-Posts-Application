@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 1rem;
+    background-color: black;
+}
+
+#logo{
+   color: rgb(219, 0, 0);
+}
+
+.post{
+    background-color: antiquewhite;
+    color: black;
+    line-height: 2.5rem;
+    margin: 5px;
+    padding: 0.87rem;
+}
+
+.user{
+    font-style: italic;
+}
+
+/* Show.ejs Styling */
+
+.id{
+    color: white;
+    padding: 1rem;
+}
