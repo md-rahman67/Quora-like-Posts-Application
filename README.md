@@ -28,5 +28,5 @@ A simple web application inspired by Quora that allows users to create, view, ed
 - Managed post-related operations through backend routes
 
 ## Author
-
+md-rahman67
 Created as a web development practice project.
